@@ -1,0 +1,9 @@
+{
+	"name": "DF-Sample1-0601",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ed8febc1-57a5-4f78-845d-5f864fc39b43",
+		"tenantId": "a975d074-e8c5-40ba-9049-671930887749"
+	}
+}
