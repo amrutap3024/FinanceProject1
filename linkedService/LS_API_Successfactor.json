@@ -1,0 +1,12 @@
+{
+	"name": "LS_API_Successfactor",
+	"properties": {
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "https://a94b1bd2-7ead-48e4-964a-13e761f5e838.mock.pstmn.io",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
