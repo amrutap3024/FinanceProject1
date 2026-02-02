@@ -1,0 +1,22 @@
+{
+	"name": "DS_ADLS_OP_FileDelay",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_ADLS_0601",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileSystem": "new-op-filedelay"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
