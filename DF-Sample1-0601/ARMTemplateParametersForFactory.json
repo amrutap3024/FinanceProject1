@@ -25,6 +25,9 @@
 		},
 		"LS_ADLS_0601_properties_typeProperties_url": {
 			"value": "https://adls0601.dfs.core.windows.net/"
+		},
+		"LS_API_Successfactor_properties_typeProperties_url": {
+			"value": "https://a94b1bd2-7ead-48e4-964a-13e761f5e838.mock.pstmn.io"
 		}
 	}
 }
